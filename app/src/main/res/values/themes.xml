@@ -2,11 +2,11 @@
     <!-- Base application theme. -->
     <style name="Theme.MyCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#559790</item>
-        <item name="colorPrimaryVariant">#49728D</item>
-        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimary">#5F9755</item>
+        <item name="colorPrimaryVariant">#61CD34</item>
+        <item name="colorOnPrimary">#AA8282</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondary">#D58C5A</item>
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">#B38C8C</item>
         <!-- Status bar color. -->
